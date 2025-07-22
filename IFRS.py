@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from typing import Optional, List, Tuple, Dict, Union
 
-# ---------- VALIDATION FUNCTION (same as before) ----------
+# ---------- VALIDATION FUNCTION  ----------
 def validate_dataframe(df: pd.DataFrame,
                        n_cols: Optional[int] = None,
                        n_rows: Optional[Tuple[int, int]] = None,

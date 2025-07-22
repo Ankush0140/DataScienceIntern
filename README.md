@@ -25,7 +25,7 @@ This project automates the **IFRS9 Expected Credit Loss (ECL)** reporting proces
 
 3. Run the script:
     ```
-    python ifrs9_reporting.py
+    python IFRS.py
     ```
 
 4. Output files will be generated in the current directory:
